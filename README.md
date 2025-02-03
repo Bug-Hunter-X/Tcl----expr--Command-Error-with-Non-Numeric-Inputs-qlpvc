@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl scripts involving the 'expr' command and how to handle unexpected input types gracefully.  The 'bug.tcl' file shows a vulnerable script, while 'bugSolution.tcl' provides a more robust solution.  This example highlights the importance of input validation and error handling in Tcl programming.
